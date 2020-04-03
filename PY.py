@@ -1,3 +1,3 @@
 import numpy
 import plt.plot
-import new
+import math
