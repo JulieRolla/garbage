@@ -3,4 +3,4 @@ import plt.plot
 import math
 
 
-x=23
+x=22
